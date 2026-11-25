@@ -1,4 +1,4 @@
-package com.educandoweb.workshorpcourse.entities;
+package com.educandoweb.workshorpcourse.model;
 
 import jakarta.persistence.*;
 

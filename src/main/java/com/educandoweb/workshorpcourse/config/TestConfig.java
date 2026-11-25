@@ -1,7 +1,7 @@
 package com.educandoweb.workshorpcourse.config;
 
-import com.educandoweb.workshorpcourse.entities.User;
-import com.educandoweb.workshorpcourse.repositories.UserRepository;
+import com.educandoweb.workshorpcourse.model.User;
+import com.educandoweb.workshorpcourse.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
